@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetMultipleStartupSample.ApiA", "DotnetMultipleStartupSample.ApiA\DotnetMultipleStartupSample.ApiA.csproj", "{772F1226-ADC4-4652-885F-720E0B4A34EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetMultipleStartupSample.ApiB", "DotnetMultipleStartupSample.ApiB\DotnetMultipleStartupSample.ApiB.csproj", "{8E58B6CD-A0EB-4AE0-9341-4C4B9BC3D0E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{772F1226-ADC4-4652-885F-720E0B4A34EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{772F1226-ADC4-4652-885F-720E0B4A34EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{772F1226-ADC4-4652-885F-720E0B4A34EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{772F1226-ADC4-4652-885F-720E0B4A34EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E58B6CD-A0EB-4AE0-9341-4C4B9BC3D0E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E58B6CD-A0EB-4AE0-9341-4C4B9BC3D0E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E58B6CD-A0EB-4AE0-9341-4C4B9BC3D0E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E58B6CD-A0EB-4AE0-9341-4C4B9BC3D0E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A296A4B3-0CE5-471A-831E-0FA0B81D9A33}
+	EndGlobalSection
+EndGlobal

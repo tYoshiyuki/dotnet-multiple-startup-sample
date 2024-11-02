@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Multiple Startup Sample",
+    "Projects": [
+      {
+        "Path": "DotnetMultipleStartupSample.ApiA\\DotnetMultipleStartupSample.ApiA.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "DotnetMultipleStartupSample.ApiB\\DotnetMultipleStartupSample.ApiB.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
